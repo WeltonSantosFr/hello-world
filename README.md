@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Humanz!
+
+Welton Here, i like javascript, gaming and coffee.
